@@ -1,2 +1,2 @@
-# jr-transporte
-Cotizador de mudanzas para JR TRANSPORTE (index.html público)
+JR TRANSPORTE 
+HelpI'm poor and stupid, I don't know how to program
